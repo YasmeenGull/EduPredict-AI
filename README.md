@@ -1,25 +1,25 @@
 # 🎓 EduPredict AI
 
-**Student Performance Prediction & Personalized Study Recommendation System**
+### Intelligent Student Performance Prediction & Personalized Learning System
 
-A complete hybrid Artificial Intelligence and Machine Learning project that predicts a student's final academic grade and converts the prediction into personalized study recommendations.
+**EduPredict AI** is a hybrid AI/ML application that predicts student academic performance and provides personalized study recommendations based on the prediction.
 
-## Why this project?
+The system combines **Random Forest Regression, MLP Neural Network, and Ensemble Learning** with a rule-based recommendation engine to transform student data into actionable academic insights.
 
-It combines the requirements of an AI final project and an ML final project in one portfolio-ready system:
+### ✨ Key Features
 
-- Data collection and preprocessing
-- Feature engineering through model pipelines
-- Classical ML with Random Forest Regression
-- Neural-network concept with an MLP Regressor
-- Hybrid ensemble prediction
-- Model evaluation using MAE, RMSE and R²
-- Result visualization
-- Rule-based intelligent recommendation engine
-- CLI user interaction
-- Streamlit graphical user interaction
-- Modular programming
-- Automated tests
+* 📊 Data preprocessing & feature engineering
+* 🤖 Random Forest & MLP Regression
+* 🔗 Hybrid ensemble prediction
+* 📈 MAE, RMSE & R² evaluation
+* 💡 Personalized study recommendations
+* 🌐 Streamlit web application
+* 💻 CLI interface
+* 🧪 Automated testing
+* 🧩 Modular architecture
+
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Streamlit • Pytest
+
 
 ## Dataset
 
